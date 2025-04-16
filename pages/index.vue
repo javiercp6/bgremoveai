@@ -11,7 +11,7 @@
         class="text-lg sm:text-xl/8 text-(--ui-text-muted) text-balance mt-2"
       >
         Background removal in seconds: No loss of quality, AI-powered. #1
-        Against Competitors!
+        Against Competitors
         <!-- Background removal in seconds: No loss of quality, AI-powered. Outperforms the competition: Faster and more accurate! -->
         <!-- Zero Quality Compromises. #1 Against Competitors. -->
       </div>
