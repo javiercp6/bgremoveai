@@ -124,7 +124,7 @@ const handleImageUpload = async (file: File) => {
     // Debes configurar 'publicPath' para que apunte a la carpeta donde pusiste los assets
     // Asegúrate de que esta ruta sea correcta según dónde colocaste los assets en tu carpeta `public`
     const blob = await removeBackground(file, {
-      publicPath: "http://localhost:3000/assets/imgly/", // <-- ¡IMPORTANTE! Ajusta esta ruta
+      publicPath: "https://bgremoveia.netlify.app/assets/imgly/", // <-- ¡IMPORTANTE! Ajusta esta ruta
       // Otras opciones de configuración (opcional):
       // progress: (key, current, total) => {
       //   console.log(`Descargando ${key}: ${current} de ${total}`);
